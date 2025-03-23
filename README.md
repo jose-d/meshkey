@@ -4,7 +4,7 @@ USB stick compatible with Meshtastic Arduino firmware
 
 ## Attribution for Hardware/Code under CERN OHL-2.0:
 
-* This project is based on the [Meshtoad-v1.2](https://oshwlab.com/mtnmesh/meshtoad-v1-2), which is licensed under the CERN Open Hardware Licence Version 2 – Strongly Reciprocal (OHL-2.0).
+* This project is based on the [Meshtoad-v1.2](https://oshwlab.com/mtnmesh/meshtoad-v1-2), as released on 24.3.2025, which is licensed under the CERN Open Hardware Licence Version 2 – Strongly Reciprocal (OHL-2.0).
 * Original design by [wehooper4](https://oshwlab.com/wehooper4/works) and [vidplace7](https://oshwlab.com/vidplace7)
 * Available at: [https://oshwlab.com/mtnmesh/meshtoad-v1-2](https://oshwlab.com/mtnmesh/meshtoad-v1-2).
 * Modified version by [jose-d].
